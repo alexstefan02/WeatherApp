@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.switch-date{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.arrow-switch-date{
+  cursor: pointer;
+}
+
+.arrow-switch-date :hover{
+  background-color: aliceblue;
+  transform: scale(1.25);
+}

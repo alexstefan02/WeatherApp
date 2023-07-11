@@ -1,0 +1,8 @@
+.hour-card-container{
+    box-shadow: 1px 2px rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+.hour-card-container:hover{
+    background-color: aliceblue;
+}
